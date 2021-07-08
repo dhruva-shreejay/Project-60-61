@@ -1,0 +1,41 @@
+.menu {
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+    
+}
+.links{
+    float: left;
+    color: darkturquoise;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px
+}
+.links:hover{
+    background-color:aqua;
+}
+h1{
+    text-align:center;
+}
+#welcome{
+    background-color:darkmagenta;
+}
+#hobbies{
+    padding:500px;
+    background-color:cyan;
+}
+html{
+    scroll-behavior:smooth;
+}
+img{
+   
+}
+body{
+    text-align:center;
+}
